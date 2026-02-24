@@ -36,7 +36,7 @@ Make sure the following are installed:
 
 Python 3.8 or higher
 Git
-Any code editor (VS Code recommended)
+Any code editor 
 
 Check versions:
 
@@ -50,7 +50,7 @@ git clone https://github.com/Taniakhatoon/employee-management-system.git
 Navigate into the project folder:
 cd employee-management-system
 
-3️⃣ Create and Activate Virtual Environment (Optional but Recommended)
+3️⃣ Create and Activate Virtual Environment
 
 Create virtual environment:
 
